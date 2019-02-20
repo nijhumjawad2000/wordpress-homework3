@@ -1,0 +1,17 @@
+﻿Homework-3 
+
+
+
+1. I have learnt how to build  theme and template in Wordpress using elementor.
+
+
+
+2. I created a Template using Elementor . It’s easy to understand and use . I created a documentation so that other can easily understand how to use my template to create an awesome portfolio.
+
+
+
+3. I have learnt many things about widget , theme, plugins etc . I can easily build a template and that can be used by others people. 
+
+ 
+
+4. The hardest part was understanding how to set up Wordpress and database on the server. How to use Wordpress tools . And also how to create theme , template responsive, how to import and export my own portfolio for other people. 
